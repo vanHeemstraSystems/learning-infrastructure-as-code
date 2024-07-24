@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Infrastructure-As-Code](README.md)
+* [Learning Infrastructure-as-Code](README.md)
